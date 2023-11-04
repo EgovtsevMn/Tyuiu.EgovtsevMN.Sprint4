@@ -20,7 +20,7 @@ namespace Tyuiu.EgovtsevMN.Sprint4.Task3.V12
             int columns = mas.Length / rows;
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнил: Еговцев М. Н. | АСОиУб-23-1";
+            Console.Title = "Спринт #4 | Выполнил: Еговцев М.Н. | АСОиУб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы. (статический ввод)                             *");
