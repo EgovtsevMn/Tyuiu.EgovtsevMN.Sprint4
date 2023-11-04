@@ -20,7 +20,7 @@ namespace Tyuiu.EgovtsevMN.Sprint4.Task2.V21
             Console.WriteLine("* Тема: Обработка структурных типов                                       *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #21                                                             *");
-            Console.WriteLine("* Выполнил: Еговцев МаксимНиколаевич | АСОиУб-23-1                        *");
+            Console.WriteLine("* Выполнил: Еговцев Максим Николаевич | АСОиУб-23-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("*                                                                         *");
